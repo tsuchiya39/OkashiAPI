@@ -2,7 +2,7 @@
 //  SafariView.swift
 //  MyOkashi
 //
-//  Created by 土谷慧太 on 2022/03/15.
+//  Created by tsuchiya39 on 2022/03/15.
 //
 
 import SwiftUI
