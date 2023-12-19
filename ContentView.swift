@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  MyOkashi
 //
-//  Created by 土谷慧太 on 2022/03/14.
+//  Created by tsuchiya39 on 2022/03/14.
 //
 
 import SwiftUI
